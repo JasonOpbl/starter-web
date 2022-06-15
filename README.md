@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. More changes for comparrison
 This is a simple blah, blah, blah
 
 ## How To Contribute
+
+### Copyright
+
+Git training
