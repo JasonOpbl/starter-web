@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Orr	jorr@pbl.ca	N/A
 
 # THANKS
 
