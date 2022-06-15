@@ -16,6 +16,8 @@ This is a simple blah, blah, blah
 
 ## How To Contribute
 
+Please fork some sentence blah
+
 ### Copyright
 
 Git training
