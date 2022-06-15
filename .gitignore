@@ -1,2 +1,3 @@
 .testexclude_file.txt
 log/
+*.orig
