@@ -21,4 +21,4 @@ Please fork some sentence blah
 
 ### Copyright
 
-Git training
+Git training. All rights reserved
